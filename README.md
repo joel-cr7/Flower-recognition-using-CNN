@@ -1,7 +1,7 @@
 # Flower Recognition Using CNN (Website Preview) :- 
-Deep learning project to identify correct species of flowers through images using CNN. 
+Deep Learning project to identify correct species of flowers through images using CNN. 
 
-A model is built using Transfer Learning concept with ```96.9%``` training accuracy and ```95.85%``` teating accuracy.
+A model is built using Transfer Learning concept with ```96.9%``` training accuracy and ```95.85%``` testing accuracy.
 
 A simple website is build using Django framework wherein the Deep Learning model is deployed to perform predictions on the uploaded images.
 
